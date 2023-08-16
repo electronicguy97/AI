@@ -4,6 +4,18 @@
 
 ---
 13.CatsDogs-CNN.ipynb가 최종본입니다.
+라이브러리:
+pandas: 데이터 분석을 위한 라이브러리
+numpy: 수치 계산을 위한 라이브러리
+matplotlib: 시각화를 위한 라이브러리
+seaborn: 데이터 시각화를 위한 라이브러리
+os: 운영체제와 관련된 기능을 제공하는 라이브러리
+tensorflow: 딥러닝 프레임워크
+librosa: 오디오 신호 처리를 위한 라이브러리
+IPython.display: IPython 환경에서의 디스플레이 관련 기능
+random: 난수 생성을 위한 라이브러리
+tqdm: 반복문의 진행 상황을 시각화하여 보여주는 라이브러리
+glob: 파일 경로를 다루는 라이브러리
 ### Cnn
 CNN(Convolutional Neural Network)은 이미지를 분석하기 위해 패턴을 찾는데 유용한 알고리즘으로 데이터에서 이미지를 직접 학습하고 패턴을 사용해 이미지를 분류합니다.
 
